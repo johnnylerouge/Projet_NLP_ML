@@ -1,6 +1,7 @@
-## Mission : Mettre au point un système de suggestion de tags pour le site StackOveflow
----
-___
+## Mission : 
+
+Mettre au point un système de suggestion de tags pour le site StackOveflow
+
 ## Compétences validées :
 
 * Représenter graphiquement des données à grandes dimensions
