@@ -1,4 +1,4 @@
-## Objectif : 
+## Mission : 
 
 Mise au point d'un système de suggestion de tags pour le site Stack Oveflow.
 
